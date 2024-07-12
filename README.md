@@ -1,4 +1,4 @@
-This is minimal reproduction for bug report #74368 to dotnet/roslyn:
+**This is minimal reproduction for bug report #74368 to dotnet/roslyn:**
 
 - dotnet/roslyn: https://github.com/dotnet/roslyn, 
 - Issue: https://github.com/dotnet/roslyn/issues/74368
